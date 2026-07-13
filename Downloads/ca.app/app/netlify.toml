@@ -1,11 +1,11 @@
 [[redirects]]
-  from = "/assets/*"
-  to = "/assets/:splat"
+  from = "/ca/assets/*"
+  to = "/ca/assets/:splat"
   status = 200
 
 [[redirects]]
-  from = "/images/*"
-  to = "/images/:splat"
+  from = "/ca/images/*"
+  to = "/ca/images/:splat"
   status = 200
 
 [[redirects]]
